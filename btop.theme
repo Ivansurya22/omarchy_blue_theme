@@ -1,0 +1,64 @@
+# ─────────────────────────────────────────────
+# BTOP THEME - Semi Nord Blue
+# ─────────────────────────────────────────────
+
+# Main background
+theme[main_bg]="#11151c"
+# Main text color
+theme[main_fg]="#c8d0e0"
+
+# Title color for boxes
+theme[title]="#88c0d0"
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#88c0d0"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#2e3440"
+# Foreground color of selected item in processes box
+theme[selected_fg]="#e5e9f0"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#4c566a"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#81a1c1"
+
+# Box outline and divider line color
+theme[cpu_box]="#88c0d0"
+theme[mem_box]="#8fbcbb"
+theme[net_box]="#5e81ac"
+theme[proc_box]="#b48ead"
+theme[div_line]="#3b4252"
+
+# Gradient for all meters and graphs
+theme[temp_start]="#bf616a"
+theme[temp_mid]="#88c0d0"
+theme[temp_end]="#5e81ac"
+
+theme[cpu_start]="#81a1c1"
+theme[cpu_mid]="#88c0d0"
+theme[cpu_end]="#5e81ac"
+
+theme[free_start]="#8fbcbb"
+theme[free_mid]="#81a1c1"
+theme[free_end]="#2e3440"
+
+theme[cached_start]="#81a1c1"
+theme[cached_mid]="#b48ead"
+theme[cached_end]="#88c0d0"
+
+theme[available_start]="#88c0d0"
+theme[available_mid]="#81a1c1"
+theme[available_end]="#c8d0e0"
+
+theme[used_start]="#81a1c1"
+theme[used_mid]="#bf616a"
+theme[used_end]="#b48ead"
+
+theme[download_start]="#88c0d0"
+theme[download_mid]="#81a1c1"
+theme[download_end]="#5e81ac"
+
+theme[upload_start]="#b48ead"
+theme[upload_mid]="#8fbcbb"
+theme[upload_end]="#bf616a"
